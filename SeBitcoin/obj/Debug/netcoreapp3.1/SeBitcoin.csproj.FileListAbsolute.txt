@@ -1,0 +1,13 @@
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.exe
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.deps.json
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.runtimeconfig.json
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.runtimeconfig.dev.json
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.dll
+C:\wamp64\www\SeBitcoin\SeBitcoin\bin\Debug\netcoreapp3.1\SeBitcoin.pdb
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.csprojAssemblyReference.cache
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.csproj.CoreCompileInputs.cache
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.AssemblyInfoInputs.cache
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.AssemblyInfo.cs
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.dll
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.pdb
+C:\wamp64\www\SeBitcoin\SeBitcoin\obj\Debug\netcoreapp3.1\SeBitcoin.genruntimeconfig.cache
