@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Security.Cryptography;
 using System.Collections.Generic;
 using System.Text;
+using System.Numerics;
 
 namespace SeBitcoin.Blockchain
 {
@@ -20,7 +22,15 @@ namespace SeBitcoin.Blockchain
 
         public string HashData(string data)
         {
-            return "We'll do this later";
+            var crypt = new System.Security.Cryptography.SHA256Managed();
+            var hash = new System.Text.StringBuilder();
+            //Can be changed to 16
+            byte[] crypto = crypt.ComputeHash(Encoding.UTF8.GetBytes(data));
+            foreach (byte theByte in crypto)
+            {
+                hash.Append(theByte.ToString("x2"));
+            }
+            return hash.ToString();
         }
 
         public string MineBlock(string preBlockHash, string currData)
