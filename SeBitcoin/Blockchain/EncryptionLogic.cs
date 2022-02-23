@@ -6,7 +6,7 @@ using System.Numerics;
 
 namespace SeBitcoin.Blockchain
 {
-    class EncryptionLogic
+    public class EncryptionLogic
     {
         //Nonce is used to mine block
         private int nonce = 0;
